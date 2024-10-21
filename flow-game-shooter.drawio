@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
-  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+  <diagram name="GameFlow" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1434" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d2EBMlPmmXlRHHhPWO4T-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="500" y="20" width="100" height="60" as="geometry" />
+          <mxGeometry x="498" y="49" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d2EBMlPmmXlRHHhPWO4T-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d2EBMlPmmXlRHHhPWO4T-3" target="d2EBMlPmmXlRHHhPWO4T-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d2EBMlPmmXlRHHhPWO4T-3" value="启动画面" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="488" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1uPaDmc7qWdQGYekVzTm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d2EBMlPmmXlRHHhPWO4T-5" target="1uPaDmc7qWdQGYekVzTm-1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,10 +25,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d2EBMlPmmXlRHHhPWO4T-5" value="大厅界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="488" y="329" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1uPaDmc7qWdQGYekVzTm-1" value="主角信息界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="756" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="754" y="329" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
