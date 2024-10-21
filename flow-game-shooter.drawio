@@ -16,19 +16,19 @@
         <mxCell id="d2EBMlPmmXlRHHhPWO4T-3" value="启动画面" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y7Wc0oIqjV_kydUNX5CG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d2EBMlPmmXlRHHhPWO4T-5" target="y7Wc0oIqjV_kydUNX5CG-1">
+        <mxCell id="1uPaDmc7qWdQGYekVzTm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d2EBMlPmmXlRHHhPWO4T-5" target="1uPaDmc7qWdQGYekVzTm-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y7Wc0oIqjV_kydUNX5CG-3" value="初次启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y7Wc0oIqjV_kydUNX5CG-2">
-          <mxGeometry x="-0.05" y="-1" relative="1" as="geometry">
+        <mxCell id="1uPaDmc7qWdQGYekVzTm-3" value="点击主角信息按钮" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1uPaDmc7qWdQGYekVzTm-2">
+          <mxGeometry x="0.05" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d2EBMlPmmXlRHHhPWO4T-5" value="大厅界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="490" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y7Wc0oIqjV_kydUNX5CG-1" value="设置主角昵称" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="1uPaDmc7qWdQGYekVzTm-1" value="主角信息界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="756" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
